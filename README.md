@@ -185,7 +185,7 @@ curl -X POST http://localhost:3000/games \
 curl http://localhost:3000/games/64abc123def456789
 ```
 
-### **Com Postman/Insomnia:**
+### **Com Postman:**
 
 Importe a collection ou teste manualmente os endpoints listados acima.
 
